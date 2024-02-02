@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #f7e8e3;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.taolaegi.LoginController">
+   <children>
+      <ImageView fitHeight="400.0" fitWidth="400.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/LoginTaelagi1.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="345.0" layoutY="43.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/Taligi1.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="315.0" layoutY="219.0" text="User Name" />
+      <Label layoutX="320.0" layoutY="257.0" text="Password" />
+      <TextField fx:id="field_UserName" layoutX="387.0" layoutY="219.0" prefHeight="26.0" prefWidth="176.0" promptText="Enter User Name" />
+      <TextField fx:id="field_passwordtext" layoutX="388.0" layoutY="257.0" prefHeight="26.0" prefWidth="176.0" />
+      <PasswordField fx:id="field_password" layoutX="388.0" layoutY="257.0" prefHeight="26.0" prefWidth="176.0" promptText="Enter your password" />
+      <Label layoutX="315.0" layoutY="183.0" prefHeight="22.0" prefWidth="266.0" text="Welcome  To  TaoLaeGi  Store">
+         <font>
+            <Font name="Georgia" size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="304.0" layoutY="360.0" prefHeight="18.0" prefWidth="150.0" text="Don't have an account yet ?" />
+      <Button fx:id="btsBackRegister" layoutX="454.0" layoutY="356.0" mnemonicParsing="false" onAction="#switchScenesiRegister" style="-fx-background-color: #f7e8e3;" text="Create new account" textFill="#2802ff" />
+      <CheckBox fx:id="CheckboxLogin" layoutX="393.0" layoutY="290.0" mnemonicParsing="false" onAction="#ClickCheckBox" style="-fx-background-color: #f7e8e3;" text="Show Password">
+         <font>
+            <Font name="Cambria" size="12.0" />
+         </font>
+      </CheckBox>
+      <Button fx:id="btnLogin" layoutX="418.0" layoutY="329.0" mnemonicParsing="false" onAction="#handle" prefHeight="26.0" prefWidth="59.0" style="-fx-background-color: #fddca5;" text="Login" />
+      <Label fx:id="informationtxt" layoutX="335.0" layoutY="307.0" prefHeight="20.0" prefWidth="242.0" textFill="RED">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="800.0" style="-fx-background-color: fff;" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.taolaegi.ChapsalController">
+   <children>
+      <ImageView fitHeight="160.0" fitWidth="256.0" layoutX="317.0" layoutY="197.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="317.0" AnchorPane.topAnchor="197.0">
+         <image>
+            <Image url="@Images/ChapsalMenu2.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="160.0" fitWidth="245.0" layoutX="67.0" layoutY="198.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="58.0">
+         <image>
+            <Image url="@Images/ChapsalMenu.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="180.0" fitWidth="775.0" layoutX="93.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="93.0" AnchorPane.rightAnchor="93.0">
+         <image>
+            <Image url="@Images/Chapsalbaslik.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="160.0" fitWidth="245.0" layoutX="576.0" layoutY="199.0" pickOnBounds="true" preserveRatio="true" AnchorPane.rightAnchor="58.0">
+         <image>
+            <Image url="@Images/ChapsalMenu3.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="17.0" layoutY="382.0" prefHeight="18.0" prefWidth="839.0" text="Product : TEO-LAE-GI MINI PLUSH CHAPSSAL VER. (1pc doll)" wrapText="true" />
+      <Label layoutX="16.0" layoutY="400.0" prefHeight="18.0" prefWidth="614.0" text="Material: POLYESTER, METAL" />
+      <Label layoutX="17.0" layoutY="418.0" prefHeight="18.0" prefWidth="210.0" text="Size: 8X10 (CM)" />
+      <Label layoutX="17.0" layoutY="436.0" prefHeight="18.0" prefWidth="285.0" text="Country of manufacture: China (MADE IN CHINA)" />
+      <Label layoutX="17.0" layoutY="454.0" prefHeight="18.0" prefWidth="184.0" text="Weight: 70g" />
+      <Label layoutX="17.0" layoutY="482.0" prefHeight="18.0" prefWidth="221.0" text="Order and delivery information">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="17.0" layoutY="501.0" prefHeight="18.0" prefWidth="540.0" text="・Delivery method: Tao-Lae-Gi STORE distribution center direct delivery (post office delivery)" />
+      <Label layoutX="17.0" layoutY="519.0" prefHeight="18.0" prefWidth="540.0" text="・Delivery period: 3 after payment ~5 days (based on business days)" />
+      <Label layoutX="17.0" layoutY="537.0" prefHeight="18.0" prefWidth="540.0" text="・ Free shipping for orders over $100" />
+      <Label layoutX="17.0" layoutY="555.0" prefHeight="18.0" prefWidth="482.0" text="Exchange and Refund Information">
+         <font>
+            <Font name="System Bold" size="13.0" />
+         </font>
+      </Label>
+      <Label layoutX="17.0" layoutY="574.0" prefHeight="38.0" prefWidth="540.0" text="・The color of the product may differ slightly from the actual color depending on the monitor specifications, and    the position or color of the product label may differ from the image" wrapText="true" />
+      <Label layoutX="17.0" layoutY="619.0" prefHeight="58.0" prefWidth="540.0" text="- For exchange/refund due to missing or defective components, a video of the delivery box and product opening (including components) is absolutely necessary.  Exchanges and refunds may be difficult if there is noopening video." wrapText="true" />
+      <Label layoutX="650.0" layoutY="400.0" prefHeight="18.0" prefWidth="142.0" style="-fx-background-color: #fddca5;" text="Back To Shopping Page" wrapText="true" />
+      <ImageView fx:id="btnMackMenu" fitHeight="100.0" fitWidth="92.0" layoutX="675.0" layoutY="425.0" onMouseClicked="#SwitchSceneMenu" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Images/smartphone.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
