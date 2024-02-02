@@ -1,0 +1,163 @@
+ username  roza place Order
+ Name : roza Last Name : Allafi
+ Email : roza@gmail.com
+ Address : maslak 1453-maslak caddesi- 
+unişantaşi üniversitesi /istanbul
+ Total Payment 56.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=2, Total=36.0]
+---------------
+ username  roza place Order 
+ Name : roza Last Name : Allafi
+ Email : r@f.g
+ Address : d
+ Total Payment 93.0
+ Payment Method : paypal
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=1, Total=18.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=1, Total=15.0, List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=1, Total=30.0, List Of Product {Name='Mini Plush', item ID=Mi126, Price=20.0, qty=1, Total=20.0]
+---------------
+ username  ahmet place Order 
+ Name : ahmet Last Name : taş
+ Email : ahmet@gmail.com
+ Address : maslak 1453 maslak caddesi  nişantaşi universitesi
+ Total Payment 153.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=1, Total=18.0, List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=3, Total=90.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=3, Total=45.0]
+---------------
+ username  roza place Order 
+ Name : roza
+ Last Name : Allafi
+Time : Sun, 16 Jan 2022 16:44:43
+ Email : roza@gmail.com
+ Address : osmanbey/ istanbul
+pangalti mah. okul sok no:77
+ Total Payment 94.0
+ Payment Method : paypal
+ Card Number : 1357924681023457
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=3, Total=54.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=2, Total=30.0]
+---------------
+ Username  yusef place Order 
+ Name : yusef
+ Last Name : karataş
+Time : Sun, 16 Jan 2022 23:44:51
+ Email : yusef_76@gmail.com
+ Address : sultanbeyli/ istanbul
+turneyli mah gül sok  No: 12
+ Total Payment 307.0
+ Payment Method : Credit/Debit Card
+ Card Number : 2354876927893458
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=4, Total=72.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=3, Total=45.0, List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=3, Total=90.0, List Of Product {Name='Mini Plush', item ID=Mi126, Price=20.0, qty=5, Total=100.0]
+---------------
+ Username  mert place Order 
+ Name : mert
+ Last Name : yilmaz
+Time : Mon, 17 Jan 2022 11:21:43
+ Email : mert@gmail.com
+ Address : nişantaşi/istanbul
+ Total Payment 165.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1345678924573891
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=5, Total=90.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=5, Total=75.0]
+---------------
+ Username  yasin place Order 
+ Name : yasin
+ Last Name : karakolcu
+Time : Mon, 17 Jan 2022 11:36:26
+ Email : yasin@gmail.com
+ Address : istanbul
+ Total Payment 64.0
+ Payment Method : Alipay
+ Card Number : 1233468947993567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=3, Total=54.0]
+---------------
+ Username  turan place Order 
+ Name : turan
+ Last Name : mert
+Time : Mon, 17 Jan 2022 11:43:25
+ Email : turan@gmail.com
+ Address : istanbul
+ Total Payment 85.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234589124568295
+ Order List [List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=5, Total=75.0]
+---------------
+ Username  roza place Order 
+ Name : roza
+ Last Name : allafi
+Time : Mon, 17 Jan 2022 11:44:50
+ Email : roza@gmail.com
+ Address : istanbul
+ Total Payment 64.0
+ Payment Method : Credit/Debit Card
+ Card Number : 7689463892809998
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=3, Total=54.0]
+---------------
+ Username  yağmur place Order 
+ Name : yağmur
+ Last Name : kocak
+Time : Mon, 17 Jan 2022 11:49:11
+ Email : yagmur@yahoo.com
+ Address : istanbul
+ Total Payment 38.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=1, Total=18.0]
+---------------
+ Username  roza place Order 
+ Name : roza
+ Last Name : allafi
+Time : Mon, 17 Jan 2022 11:51:49
+ Email : roza@gmail.com
+ Address : istanbul
+ Total Payment 38.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=1, Total=18.0]
+---------------
+ Username  hakan place Order 
+ Name : hakan
+ Last Name : karakolcu
+Time : Thu, 20 Jan 2022 14:48:52
+ Email : hakan@gmail.com
+ Address : nişantaşi üniversiti / istanbul 
+maslak
+ Total Payment 68.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=1, Total=18.0, List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=1, Total=30.0]
+---------------
+ Username  yaren place Order 
+ Name : yaren
+ Last Name : karataş
+Time : Thu, 20 Jan 2022 15:06:24
+ Email : yaren@yahoo.com
+ Address : maslak nişantaşi /istanbul
+ Total Payment 56.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891235456
+ Order List [List Of Product {Name='Chapsal', item ID=Ch123, Price=18.0, qty=2, Total=36.0]
+---------------
+ Username  peter place Order 
+ Name : peter
+ Last Name : petersen
+Time : Thu, 20 Jan 2022 15:30:19
+ Email : peter@gmail.com
+ Address : istanbul nişantaşi
+ Total Payment65.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567891234567
+ Order List [List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=1, Total=30.0, List Of Product {Name='FlatMagnet', item ID=Fl124, Price=15.0, qty=1, Total=15.0]
+
+---------------
+ Username  tyu place Order 
+ Name : tyu
+ Last Name : lrjf
+Time : Mon, 13 Nov 2023 17:38:34
+ Email : rt@gmail.com
+ Address : wrfjik
+ Total Payment 210.0
+ Payment Method : Credit/Debit Card
+ Card Number : 1234567890123445
+ Order List [List Of Product {Name='Taelaegi', item ID=Ta125, Price=30.0, qty=7, Total=210.0]
